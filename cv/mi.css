@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(0, 0, 0);
+}
+h1{
+    font-style: italic;
+}
+header{
+    background-color: rgb(48, 46, 46);
+}
+#foto_perfil{
+    margin-left: 0px;
+    background-color: rgb(0, 0, 0);
+    float: left;
+    height: 600px;
+}
+
+.informacion{
+    margin-left: 495px;
+    display: block;
+    background-color: rgb(59, 58, 55);
+    position:static;
+    top: 10px;
+}
+
+.lenguajes{
+    margin-left: 495px;
+    display: block;
+    background-color: rgb(42, 43, 41);
+    position: static;
+    left: 5px;
+    top: 300px;
+}
+
+.hobbies{
+    display: block;
+    background-color:rgb(42, 43, 41);
+    position: static;
+    margin-left: 485px;
+
+}
+
+#pie{
+    clear: both;
+    display: block;
+    background-color: white;
+}
